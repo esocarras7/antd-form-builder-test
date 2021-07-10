@@ -235,7 +235,7 @@ const CustomFormView = props => {
 
     return (
         <Form form={form} onValuesChange={forceUpdate}>
-            <FormBuilder meta={meta} form={form} viewMode />
+            <FormBuilder meta={meta} form={form} />
         </Form>
     )
 }

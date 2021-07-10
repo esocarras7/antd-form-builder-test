@@ -449,7 +449,7 @@ const CustomForm = () => {
                         </Col>
                     </Row>
                     <Row justify='start' style={{ marginTop: '10px' }}>
-                        <Col flex={'539px'}>
+                        <Col flex={'531px'}>
                             {<CirclePicker
                                 colors={circleColors}
                                 circleSize={45}
